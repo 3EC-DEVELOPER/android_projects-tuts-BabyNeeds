@@ -4,6 +4,13 @@
 >
 > This project is not original work. It was created for learning purposes only. Full credit to Paulo Dichone for the course content and instruction.
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Android-Tutorial-3DDC84?logo=android&logoColor=white" alt="Android Tutorial"/>
+  <img src="https://img.shields.io/badge/Java-Course%20Project-ED8B00?logo=openjdk&logoColor=white" alt="Java Course Project"/>
+  <img src="https://img.shields.io/badge/UI-Fragments%20%26%20Toolbar-111827" alt="Fragments and Toolbar"/>
+  <img src="https://img.shields.io/badge/Material-Components-0F766E" alt="Material Components"/>
+</p>
+
 ---
 
 ## About

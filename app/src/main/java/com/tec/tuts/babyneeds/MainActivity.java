@@ -1,4 +1,4 @@
-package com.example.babyneeds;
+package com.tec.tuts.babyneeds;
 
 import android.os.Bundle;
 
